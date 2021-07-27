@@ -47,7 +47,7 @@
         {
             "Name": "GoogleAdmob",
             "AppId": "ca-app-pub-6514041450334421~9394624502",
-            "AppSignature": "60fff373a8f3ef07aa723a20",
+            "AppSignature": "",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
