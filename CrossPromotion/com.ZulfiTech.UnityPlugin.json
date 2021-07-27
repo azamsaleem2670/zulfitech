@@ -2,11 +2,11 @@
     "CrossPromoUnits": [
         {
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.water.shooting.pool.arena",
-            "IconUrl": "https://zulfitechplugin.000webhostapp.com/CrossPromotion/Images/1.PNG"
+            "IconUrl": "https://raw.githubusercontent.com/azamsaleem2670/zulfitech/FileHosting/CrossPromotion/Images/1.png"
         },
         {
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.anime.school.girl.life",
-            "IconUrl": "https://zulfitechplugin.000webhostapp.com/CrossPromotion/Images/2.PNG"
+            "IconUrl": "https://raw.githubusercontent.com/azamsaleem2670/zulfitech/FileHosting/CrossPromotion/Images/2.png"
         }
     ]
 }
