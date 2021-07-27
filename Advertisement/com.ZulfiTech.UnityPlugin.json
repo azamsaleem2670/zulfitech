@@ -8,25 +8,27 @@
     "Advertisement": [
         {
             "Name": "UnityAd",
-            "AppId": "4234129",
+            "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "AppSignature": "60fff373a8f3ef07aa723a20",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
-                    "AdUnitId": "Interstitial_Android"
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
                 },
                 {
                     "Name": "Rewarded",
-                    "AdUnitId": "Rewarded_Android"
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
                 },
                 {
                     "Name": "RewardedInterstitial",
-                    "AdUnitId": ""
+                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
                 }
             ]
         },
         {
             "Name": "Chartboost",
-            "AppId": "60fff373a8f3ef07aa723a20",
+            "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "AppSignature": "60fff373a8f3ef07aa723a20",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
@@ -45,6 +47,7 @@
         {
             "Name": "GoogleAdmob",
             "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "AppSignature": "60fff373a8f3ef07aa723a20",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
@@ -65,9 +68,9 @@
         {
             "Name": "Play",
             "AdNewtorks": [
-                3,
+                1,
                 2,
-                1
+                3
             ]
         },
         {
