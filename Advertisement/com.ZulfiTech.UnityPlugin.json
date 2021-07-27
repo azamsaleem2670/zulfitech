@@ -8,27 +8,27 @@
     "Advertisement": [
         {
             "Name": "UnityAd",
-            "AppId": "ca-app-pub-6514041450334421~9394624502",
-            "AppSignature": "60fff373a8f3ef07aa723a20",
+            "AppId": "4234129",
+            "AppSignature": "",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
+                    "AdUnitId": "Interstitial_Android"
                 },
                 {
                     "Name": "Rewarded",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
+                    "AdUnitId": "Rewarded_Android"
                 },
                 {
                     "Name": "RewardedInterstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
+                    "AdUnitId": ""
                 }
             ]
         },
         {
             "Name": "Chartboost",
-            "AppId": "ca-app-pub-6514041450334421~9394624502",
-            "AppSignature": "60fff373a8f3ef07aa723a20",
+            "AppId": "60fff373a8f3ef07aa723a20",
+            "AppSignature": "202353c17f498829146ce5694d682c842e7042b2",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
