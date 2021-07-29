@@ -8,46 +8,46 @@
     "Advertisement": [
         {
             "Name": "UnityAd",
-            "AppId": "4234129",
-            "AppSignature": "",
+            "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "AppSignature": "202353c17f498829146ce5694d682c842e7042b2",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
-                    "AdUnitId": "Interstitial_Android"
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
                 },
                 {
                     "Name": "Rewarded",
-                    "AdUnitId": "Rewarded_Android"
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
                 },
                 {
                     "Name": "RewardedInterstitial",
-                    "AdUnitId": ""
+                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
                 }
             ]
         },
         {
             "Name": "Chartboost",
-            "AppId": "60fff373a8f3ef07aa723a20",
+            "AppId": "ca-app-pub-6514041450334421~9394624502",
             "AppSignature": "202353c17f498829146ce5694d682c842e7042b2",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
-                    "AdUnitId": ""
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
                 },
                 {
                     "Name": "Rewarded",
-                    "AdUnitId": ""
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
                 },
                 {
                     "Name": "RewardedInterstitial",
-                    "AdUnitId": ""
+                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
                 }
             ]
         },
         {
             "Name": "GoogleAdmob",
             "AppId": "ca-app-pub-6514041450334421~9394624502",
-            "AppSignature": "",
+            "AppSignature": "202353c17f498829146ce5694d682c842e7042b2",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
@@ -68,9 +68,9 @@
         {
             "Name": "Play",
             "AdNewtorks": [
-                3,
                 1,
-                2
+                2,
+                3
             ]
         },
         {
