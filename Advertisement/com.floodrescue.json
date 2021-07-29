@@ -29,7 +29,7 @@
             "Name": "Chartboost",
             "AppId": "60fff373a8f3ef07aa723a20",
             "AppSignature": "202353c17f498829146ce5694d682c842e7042b2",
-            "AdUnits": [
+             "AdUnits": [
                 {
                     "Name": "Interstitial",
                     "AdUnitId": ""
@@ -68,9 +68,9 @@
         {
             "Name": "Play",
             "AdNewtorks": [
-                3,
                 1,
-                2
+                2,
+                3
             ]
         },
         {
