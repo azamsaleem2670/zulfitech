@@ -1,1 +1,156 @@
-
+{
+    "Banner": {
+        "AdNetwork": 3,
+        "BannerId": "ca-app-pub-3940256099942544/6300978111",
+        "Size": 0,
+        "Position": 1
+    },
+    "Advertisement": [
+        {
+            "Name": "UnityAd",
+            "AppId": "4234129",
+            "AppSignature": "",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": "Interstitial_Android"
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": "Rewarded_Android"
+                },
+                {
+                    "Name": "RewardedInterstitial",
+                    "AdUnitId": ""
+                }
+            ]
+        },
+        {
+            "Name": "Chartboost",
+            "AppId": "60fff373a8f3ef07aa723a20",
+            "AppSignature": "202353c17f498829146ce5694d682c842e7042b2",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": ""
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": ""
+                },
+                {
+                    "Name": "RewardedInterstitial",
+                    "AdUnitId": ""
+                }
+            ]
+        },
+        {
+            "Name": "GoogleAdmob",
+            "AppId": "ca-app-pub-6514041450334421~9394624502",
+            "AppSignature": "",
+            "AdUnits": [
+                {
+                    "Name": "Interstitial",
+                    "AdUnitId": "ca-app-pub-3940256099942544/1033173712"
+                },
+                {
+                    "Name": "Rewarded",
+                    "AdUnitId": "ca-app-pub-3940256099942544/5224354917"
+                },
+                {
+                    "Name": "RewardedInterstitial",
+                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
+                }
+            ]
+        }
+    ],
+    "Events": [
+        {
+            "Name": "Play",
+            "AdNewtorks": [
+                3,
+                1,
+                2
+            ]
+        },
+        {
+            "Name": "Setting",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "Loading",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "LevelPlay",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "LevelComplete",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "LevelFailed",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "Pause",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "Home",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "Rewarded",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "RewardedInterstitial",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "Notification": {
+        "OneSignalID": "5c8fbc96-0ae3-4b56-a900-f00631c6aa74"
+    },
+    "Analytics": {
+        "iOSFlurryId": "",
+        "AndroidFlurryId": "5WNCTFJK9HGBPMPGSQSV"
+    }
+}
