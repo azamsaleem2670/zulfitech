@@ -1,0 +1,83 @@
+{
+    "Events": [
+        {
+            "Name": "Play",
+            "AdNewtorks": [
+                1,
+                3
+            ]
+        },
+        {
+            "Name": "Setting",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "Loading",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "LevelPlay",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "LevelComplete",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "LevelFailed",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "Pause",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "Home",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "Rewarded",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "Name": "RewardedInterstitial",
+            "AdNewtorks": [
+                1,
+                2,
+                3
+            ]
+        }
+    ]
+}
